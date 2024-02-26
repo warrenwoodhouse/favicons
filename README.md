@@ -1,17 +1,18 @@
 # favicons
-Favicons by Warren Woodhouse. You can find more cool stuff at https://warrenwoodhouse.tumblr.com/tagged/createdcontents
+Favicons created by me. You can find more cool stuff at https://warrenwoodhouse.tumblr.com/
 
 # LICENSE AGREEMENT
-You can find the license agreement at https://warrenwoodhouse.tumblr.com/terms
+Please read the license agreement at https://warrenwoodhouse.tumblr.com/terms
+
+# WHAT DOES THE PACKAGE INCLUDE
+This package includes custom favicons for use on websites and blogs that don't generate profits (such as blogs at Blogger and Tumblr). Your blog and website must not have a paid for dot com site such as example dot com.
 
 # SUPPORT
-You can find support at https://warrenwoodhouse.tumblr.com/aask
+You can find support at https://github.com/warrenwoodhouse/favicons/issues
 
 # KEEP IN TOUCH
-* Subscribe on YouTube: https://youtube.com/user/warrenwoodhouse
-* Follow on Twitter: https://twitter.com/warrenwoodhouse
-* Follow on Warren Woodhouse Blogs: https://warrenwoodhouse.tumblr.com/
-* More: https://warrenwoodhouse.tumblr.com/follow
-
-# WHAT IS IN THE PACKAGE
-The package contains lots of custom made favicons for personal use only. You can use them on your own websites and blogs so long as you contact me directly at https://warrenwoodhouse.tumblr.com/ask
+Subscribe on YouTube: https://youtube.com/user/warrenwoodhouse
+Official Website: https://warrenwoodhouse.tumblr.com/
+Follow on Facebook: https://facebook.com/warrenwoodhousevideos
+Email: warrenwoodhouse@googlegroups.com
+More: https://warrenwoodhouse.tumblr.com/tagged/follow
