@@ -11,8 +11,8 @@ This package includes custom favicons for use on websites and blogs that don't g
 You can find support at https://github.com/warrenwoodhouse/favicons/issues
 
 # KEEP IN TOUCH
-Subscribe on YouTube: https://youtube.com/user/warrenwoodhouse
-Official Website: https://warrenwoodhouse.tumblr.com/
-Follow on Facebook: https://facebook.com/warrenwoodhousevideos
-Email: warrenwoodhouse@googlegroups.com
-More: https://warrenwoodhouse.tumblr.com/tagged/follow
+* Subscribe on YouTube: https://youtube.com/user/warrenwoodhouse
+* Official Website: https://warrenwoodhouse.tumblr.com/
+* Follow on Facebook: https://facebook.com/warrenwoodhousevideos
+* Email: warrenwoodhouse@googlegroups.com
+* More: https://warrenwoodhouse.tumblr.com/tagged/follow
